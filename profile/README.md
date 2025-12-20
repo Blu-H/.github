@@ -15,6 +15,10 @@ Not all systems or data are public. Content is shared here where openness suppor
 ### Collaboration
 We welcome engagement from researchers, developers, and partners who share our mission. Contributions and discussions are managed through GitHub issues and pull requests, in line with Blu-H’s governance and ethical guidelines.
 
+© 2025 Blu-H ASBL · Luxembourg
+Registered non-profit association (ASBL)
+RCS Luxembourg: F15177
+
 ### Learn more
 🌐 https://www.blu-h.org  
 📧 info@blu-h.org
