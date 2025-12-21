@@ -9,7 +9,7 @@ We use this GitHub space to share high-level documentation, technical concepts, 
 This repository brings together **technical, analytical, and organisational materials**
 supporting Blu-H’s mission to deliver responsible, humanitarian flood intelligence.
 
-#Content may include:
+## Content may include:
 
 - Technical and architectural documentation  
 - Analytical workflows and data concepts  
