@@ -1,3 +1,6 @@
+![Blu-H logo](/Public-Website/images/image0.jpeg)
+
+
 ## Hi there 👋
 
 Blu-H is a non-profit initiative that bridges earth observation science and real-world decision-making to support humanitarian flood early warning, situational awareness, and climate resilience.
