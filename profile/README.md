@@ -1,4 +1,4 @@
-![Blu-H logo](/public-website/images/image0.jpeg)
+![Blu-H logo](/Public-Website/images/image0.jpeg)
 
 ## Hi there 👋
 
